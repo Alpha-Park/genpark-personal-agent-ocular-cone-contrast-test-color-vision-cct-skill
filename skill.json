@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-ocular-cone-contrast-test-color-vision-cct-skill",
+  "version": "1.0.0",
+  "description": "Calculates isolated L-cone (protan), M-cone (deutan), and S-cone (tritan) contrast thresholds and CCT score indices based on Rabin psychophysics.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "optometry",
+    "color-vision",
+    "cone-contrast",
+    "cct",
+    "photoreceptors",
+    "macula",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
